@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Profile" type="id">profile</item>
+    <item name="profile" type="id">profile</item>
+    <item name="list_item" type="id">list_item</item>
+    <item name="home" type="id">home</item>
+    <item name="navigation" type="id">navigation</item>
+</resources>
